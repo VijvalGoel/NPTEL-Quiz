@@ -144,6 +144,17 @@
             "points": 10
         },
         {
+            "question": "Which of these is not a characteristic of pioneer species?",
+            "options": [
+                "ability to grow on care rocks",
+                "ability to tolerate extreme temperatures",
+                "large size",
+                "short life span"
+            ],
+            "correctOption": 2,
+            "points": 10
+        },
+        {
             "question": "Which of these depicts correctly the lithosere primary succession?",
             "options": [
                 "rock --> crustose lichen --> foliose lichen --> moss --> herbaceous stage --> shrub --> woodland --> climax",
