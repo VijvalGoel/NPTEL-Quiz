@@ -10,7 +10,7 @@ import Progress from "./Progress";
 import Question from "./Question";
 import Results from "./Results";
 import Timer from "./Timer";
-import data from "../data/forests-questions.json";
+import data from "../data/geography-questions.json";
 
 const initialState = {
     questions: [],

@@ -1,7 +1,7 @@
 const Home = ({ numQuestions, dispatch }) => {
     return (
         <div className="start">
-            <h2>Welcome to Forests and Their Management Quiz</h2>
+            <h2>Welcome to Conservation Geography Quiz</h2>
             <h4>
                 {" "}
                 <div className="startscreenh4">
@@ -26,7 +26,7 @@ const Home = ({ numQuestions, dispatch }) => {
                             <option value={120}>120</option>
                         </select>
                     </form>
-                    Questions from Forests and Their Managament Assignments
+                    Questions from Conservation Geography Assignments
                 </div>
             </h4>
             <button
